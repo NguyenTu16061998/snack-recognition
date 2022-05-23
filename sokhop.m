@@ -14,3 +14,4 @@ for i=1:300
     end
 end
 xlswrite('E:\hoconl\ktnd\Humoment\mydata1.xlsx', A);
+//Nam 3
